@@ -1,0 +1,5 @@
+*file3*ligne1 is simple*
+*file3*ligne2 is quite biger biger biger biger*
+*file3*ligne3                          is even biger*
+*file3*ligne4 stops here*
+*file3*ligne5*
